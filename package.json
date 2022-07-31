@@ -1,0 +1,22 @@
+{
+  "name": "plans-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/alvo254/plans-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvo254/plans-api/issues"
+  },
+  "homepage": "https://github.com/alvo254/plans-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
